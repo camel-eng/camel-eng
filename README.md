@@ -1,0 +1,3 @@
+- 👋 Hi, I’m j.matsuo, @camel-eng
+- 🏠 I'm an system engineer based in Kyoto-Japan, and BKK-Thailand.
+- 🌱 I've my own small systems development business.
